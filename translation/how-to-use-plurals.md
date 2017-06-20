@@ -1,7 +1,7 @@
 ---
 related:
-    - ../first-question.md
-    - ../second-question.md
+    - first-question.md
+    - second-question.md
     
 ---
 
