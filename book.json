@@ -1,3 +1,6 @@
 {
-    "plugins": [ "theme-faq" ]
+    "plugins": [ "theme-faq", "custom-favicon" ],
+    "pluginsConfig": {
+        "favicon": "assets/favicon.ico"
+    }
 }
