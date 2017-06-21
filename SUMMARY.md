@@ -7,7 +7,3 @@
 * [How to add a new language?](how-to-add-a-new-language.md)
 * [How to add a new version?](how-to-add-a-new-version.md)
 
-## Translation
-
-* [How to use plurals?](translation/how-to-use-plurals.md)
-
