@@ -13,4 +13,5 @@
 ## Misc
 
 * [Do i have to use the locize CDN or can i host / bundle the translations directly?](misc/using-cdn-host-translations-yourself-offline-systems.md)
+* [Convince Your Boss Letter](convince-your-boss-letter.md)
 
