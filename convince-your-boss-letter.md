@@ -15,7 +15,7 @@ We should stop putting the translations inside our code repository. It does not 
 
 As you know we have big troubles with our localization process. Before a release there are some terms that are not used anymore others are new and not yet translated, some new translations comes back after we already shipped the release, etc...
 
-Wouldn’t it be great if we can change or add translations without shipping a new release of our software?
+Wouldn’t it be great if we could change or add translations without shipping a new release of our software?
 
 That's why I suggest to separate the localization process from the development process.
 
