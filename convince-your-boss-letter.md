@@ -2,7 +2,7 @@ _Need help justifying the usage of locize? Simply copy and paste the below into 
 
 ---
 
-Dear {{Boss Name}},
+Dear {Boss Name},
 
 I'd like to use [locize.com](http://www.locize.com).
 It is THE localization as a service solution to use, as it is premier choice for developers and translators.
@@ -44,4 +44,4 @@ Please let me know if you have any questions or concerns; otherwise, I hope we c
 
 Thanks,
 
-{{Your Name}}
+{Your Name}
