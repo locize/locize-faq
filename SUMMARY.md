@@ -12,5 +12,5 @@
 
 ## Misc
 
-* [Using CDN - Host translations yourself - Offline Systems](misc/using-cdn-host-translations-yourself-offline-systems.md)
+* [Do i have to use the locize CDN or can i host / bundle the translations directly?](misc/using-cdn-host-translations-yourself-offline-systems.md)
 
