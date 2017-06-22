@@ -13,7 +13,7 @@ Unfortunately, we did the mistake by looking on localization as it’s only base
 
 We should stop putting the translations inside our code repository. It does not really belong there. The localization team should have access very early . Even more they should be able to start translating the features already ready for shipping.
 
-As you know we have big troubles with our localization process. Before a release there are some terms that are not used anymore others are new and not yet translated, some new translations comes back after we already shipped the release, etc...
+As you know we have big troubles with our localization process. Before a release there are some terms that are not used anymore others are new and not yet translated, some new translations come back after we already shipped the release, etc...
 
 Wouldn’t it be great if we could change or add translations without shipping a new release of our software?
 
