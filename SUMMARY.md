@@ -19,4 +19,5 @@
 
 * [Can i have more than one translation files \(namespaces\)?](locizify-tips-and-tricks/can-i-have-more-than-one-translation-files-namespaces.md)
 * [How can i exclude some content from being translated?](locizify-tips-and-tricks/how-can-i-exclude-some-content-from-being-translated.md)
+* [I separated my translations in multiple namespaces...how can i share translations for navigation or footer?](locizify-tips-and-tricks/i-separated-my-translations-in-multiple-namespaceshow-can-i-share-translations-for-navigation-or-footer.md)
 
