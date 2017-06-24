@@ -24,4 +24,5 @@
 * [My content gets separated. Can i keep my links inside paragraphs?](locizify-tips-and-tricks/my-content-gets-separated-can-i-keep-my-links-inside-paragraphs.md)
 * [How can i support translated images or seo friendly routes?](locizify-tips-and-tricks/how-can-i-support-translated-images-or-seo-friendly-routes.md)
 * [How can i get a list of languages from my locize project and build a language toggler?](locizify-tips-and-tricks/how-can-i-get-a-list-of-languages-from-my-locize-project-and-build-a-language-toggler.md)
+* [How can i use plurals, interpolation or other translation features?](locizify-tips-and-tricks/how-can-i-use-plurals-interpolation-or-other-translation-features.md)
 
