@@ -6,7 +6,7 @@ There is a simple trick just set `display: none;` on your body style.
   <head>
     ...
   </head>
-  <body style="display: none">
+  <body style="display: none;">
   ...
 ```
 
