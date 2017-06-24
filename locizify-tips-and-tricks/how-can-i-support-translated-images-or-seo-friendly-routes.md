@@ -1,0 +1,1 @@
+You can translate parts of the image src or href. [Learn more](https://github.com/locize/locizify#fragment-replacement-for-links-and-images)
