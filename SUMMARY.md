@@ -15,3 +15,7 @@
 * [Do i have to use the locize CDN or can i host / bundle the translations directly?](misc/using-cdn-host-translations-yourself-offline-systems.md)
 * [Convince Your Boss Letter](convince-your-boss-letter.md)
 
+## locizify - tips & tricks
+
+* [Can i have more than one translation files \(namespaces\)?](locizify-tips-and-tricks/can-i-have-more-than-one-translation-files-namespaces.md)
+
