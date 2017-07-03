@@ -9,6 +9,7 @@
 * [How to add a new language?](how-to-add-a-new-language.md)
 * [How to add, edit and delete keys?](how-to-add.md)
 * [How to add a new version?](how-to-add-a-new-version.md)
+* [How to import from a file?](how-to-import-from-a-file.md)
 
 ## Misc
 
