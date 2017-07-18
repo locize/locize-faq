@@ -15,6 +15,7 @@
 
 * [Which integration option should I use?](which-integration-option-should-i-use.md)
 * [Do i have to use the locize CDN or can i host / bundle the translations directly?](misc/using-cdn-host-translations-yourself-offline-systems.md)
+* [How is locize different from the alternatives?](how-is-locize-different-from-the-alternatives.md)
 * [Convince Your Boss Letter](convince-your-boss-letter.md)
 
 ## locizify - tips & tricks
