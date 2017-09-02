@@ -16,10 +16,10 @@
 * [Which integration option should I use?](which-integration-option-should-i-use.md)
 * [Do i have to use the locize CDN or can i host / bundle the translations directly?](misc/using-cdn-host-translations-yourself-offline-systems.md)
 * [How is locize different from the alternatives?](how-is-locize-different-from-the-alternatives.md)
-* [Convince Your Boss Letter](convince-your-boss-letter.md)
 * [Is locize only for developers and translators or is project management within the process too?](is-locize-only-for-developers-and-translators-or-is-project-management-within-the-process-too.md)
 * [What is the regular way to update the translation memory?](what-is-the-regular-way-to-update-the-translation-memory.md)
 * [Is there any visibility on project’s level of completion that shows how translators are progressing on real time?](is-there-any-visibility-on-projects-level-of-completion-that-shows-how-translators-are-progressing-on-real-time.md)
+* [Convince Your Boss Letter](convince-your-boss-letter.md)
 
 ## locizify - tips & tricks
 
