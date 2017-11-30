@@ -7,5 +7,5 @@ You can never get rid of latency, but the great news is that there are latency o
 
 #### Our advice
 1. Create a dedicated version for production ([How to add a new version?](/how-to-add-a-new-version.html))
-2. Do not enable auto publish for that version and publish manually or via [api](https://docs.locize.com/api.html#publish-version)
+2. Do not enable auto publish for that version and publish manually or via [API](https://docs.locize.com/api.html#publish-version)
 3. Enable [Cache-Control max-age](https://docs.locize.com/caching.html)
