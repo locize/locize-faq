@@ -32,6 +32,19 @@ If anyhow possible we try to integrate the translation services the way you can 
 - ...
 
 
+## Multiple namespaces/files
+
+Unlike most translation management services we offer the possibility to manage multiple files per project.
+We call them [namespaces](https://docs.locize.com/namespaces.html).
+
+
+## Proper pluralization
+
+Different languages needs to know more information about the context. For example Polish suppose you have a singular and then you have a different plural depending on whether the number of things ends with 2, 3 and 4 or some other digit.
+And Romanian need a different plural for any group of objects greater than 20.
+Locize understands and correctly calculates your progress in the different languages by considering the different pluralization rules.
+
+
 ## More than translation management
 
 Locize significantly offers more then a pure translation management - which will help you stay organized after having the initial translation done:
