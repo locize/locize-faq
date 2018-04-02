@@ -22,6 +22,7 @@
 * [Is there any visibility on project’s level of completion that shows how translators are progressing on real time?](is-there-any-visibility-on-projects-level-of-completion-that-shows-how-translators-are-progressing-on-real-time.md)
 * [Convince Your Boss Letter](convince-your-boss-letter.md)
 * [Latency Optimization – Tips for Optimal Performance](latency-optimization-tips-for-optimal-performance.md)
+* [Why do I get "The passed json is nested too deeply." when consuming the API?](why-do-i-get-the-passed-json-is-nested-too-deeply-when-consuming-the-api.md)
 
 ## locizify - tips & tricks
 
