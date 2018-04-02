@@ -23,6 +23,7 @@
 * [Convince Your Boss Letter](convince-your-boss-letter.md)
 * [Latency Optimization – Tips for Optimal Performance](latency-optimization-tips-for-optimal-performance.md)
 * [Why do I get "The passed json is nested too deeply." when consuming the API?](why-do-i-get-the-passed-json-is-nested-too-deeply-when-consuming-the-api.md)
+* [Why is my namespace suddenly a flat json?](why-is-my-namespace-suddenly-a-flat-json.md)
 
 ## locizify - tips & tricks
 
