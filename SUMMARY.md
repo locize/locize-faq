@@ -11,6 +11,7 @@
 * [How to add a new version?](how-to-add-a-new-version.md)
 * [How to import from a file?](how-to-import-from-a-file.md)
 * [How to subscribe?](how-to-subscribe.md)
+* [How do I manage plurals?](how-do-i-manage-plurals.md)
 
 ## Misc
 
