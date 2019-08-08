@@ -2,7 +2,7 @@ When we started work on locize we wanted to be more then just another localizati
 
 ## Pricing model
 
-Our pricing model is variable. We prefer to have the pricing to grow with your success. Don't pay to much just by scratching the border of the next bigger plan.
+Our pricing model is variable. We prefer to have the pricing to grow with your success. Don't pay too much just by scratching the border of the next bigger plan.
 
 
 ## Instrumentation
